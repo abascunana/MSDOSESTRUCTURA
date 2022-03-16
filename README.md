@@ -1,2 +1,5 @@
-# MSDOSESTRUCTURA
-Directorio en el que se crea la estructura de información de la página del instituto mediante comandos de MS-DOS
+# Creación Directorios MS-DOS
+He empezado creando el directorio para el proyecto. 
+Como se puede ver,  a la hora de crear directorios y movernos entre directorios, sigue una sintaxis muy parecida a sistemas UNIX.
+
+
